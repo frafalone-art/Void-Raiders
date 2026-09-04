@@ -55,8 +55,8 @@ The game offers:
 ---
 
 # 📱 Availability
-Void Raiders is out now on itch.io for Windows (a browser/Web build is coming soon):
-👉 **[francescofalone.itch.io/void-raiders](https://itch.io)**
+Void Raiders is out now on itch.io for Windows and directly in your browser:
+👉 **[francescofalone.itch.io/void-raiders](https://francescofalone.itch.io/void-raiders)**
 
 ---
 
