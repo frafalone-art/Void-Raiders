@@ -3,7 +3,7 @@
 
 [![Play on itch.io](https://img.shields.io/badge/itch.io-Play%20Now-FA5C5C?logo=itch.io)](https://francescofalone.itch.io/void-raders)
 [![Platform](https://img.shields.io/badge/Platform-Windows-00A4EF?logo=microsoftwindows7&logoColor=white)](https://microsoft.com/)
-[![Platform](https://img.shields.io/badge/Platform-Browser-FBBC04?logo=chrome)](https://francescofalone.itch.io/void-raiders)
+[![Platform](https://img.shields.io/badge/Platform-Browser-FBBC04?logo=googlechrome)](https://francescofalone.itch.io/void-raiders)
 [![Python](https://img.shields.io/badge/Python-3.x-3572A5?logo=python)](https://python.org)
 [![Pygame](https://img.shields.io/badge/Pygame-2.x-307824?logo=pygame)](https://pygame.org/docs/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
